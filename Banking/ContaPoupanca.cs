@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Banking
 {
-    internal class ContaPoupanca
+    public class ContaPoupanca : Conta
     {
     }
 }
